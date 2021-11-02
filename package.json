@@ -15,5 +15,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
-  }
+  },
+  "author": "Amir Sanni <amirsanni@gmail.com>",
+  "homepage": "https://github.com/amirsanni/livestream-server#readme"
 }
